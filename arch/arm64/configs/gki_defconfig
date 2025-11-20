@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-Mahiru-25Q4-alpha-Snowdrop-MillenniumTeam"
+CONFIG_LOCALVERSION="-Mahiru-v6.0-Snowdrop-MillenniumTeam"
 # CONFIG_LOCALVERSION_AUTO is not set
 CONFIG_AUDIT=y
 CONFIG_NO_HZ=y
